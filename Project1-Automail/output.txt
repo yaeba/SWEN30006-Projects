@@ -1,0 +1,16 @@
+Buildfile: C:\Users\xuankent\Downloads\Automail-20190503T055251Z-001\build.xml
+
+init:
+    [mkdir] Created dir: C:\Users\xuankent\Downloads\Automail-20190503T055251Z-001\tmp_unzipped\build
+
+compile:
+    [javac] C:\Users\xuankent\Downloads\Automail-20190503T055251Z-001\build.xml:31: warning: 'includeantruntime' was not set, defaulting to build.sysclasspath=last; set to false for repeatable builds
+    [javac] Compiling 23 source files to C:\Users\xuankent\Downloads\Automail-20190503T055251Z-001\tmp_unzipped\build
+
+dist:
+    [mkdir] Created dir: C:\Users\xuankent\Downloads\Automail-20190503T055251Z-001\tmp_unzipped\dist\lib
+      [jar] Building jar: C:\Users\xuankent\Downloads\Automail-20190503T055251Z-001\tmp_unzipped\dist\lib\Project1.jar
+
+BUILD SUCCESSFUL
+Total time: 1 second
+Default behaviour successful! 
